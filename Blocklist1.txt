@@ -114,7 +114,6 @@ actionads.ru
 actionpay.ru
 actionteaser.ru
 actuallysheep.com
-ad*.nexage.com
 ad-analytics-bootstrap.metaps.com
 ad-beast.com
 ad-brix.com
@@ -132,7 +131,6 @@ ad.71i.de/global_js/AppConfig/Sport1de/android.json
 ad.9tv.co.il
 ad.a-ads.com
 ad.about.co.kr
-ad.admitad.com/*/?ulp=
 ad.adworx.at
 ad.api.kaffnet.com
 ad.apps.fm
@@ -142,7 +140,6 @@ ad.daum.net
 ad.daum.net/imp
 ad.doubleclick.net
 ad.doubleclick.net#Doubleclicktracking
-ad.doubleclick.net/ddm/clk/*?https://creditcards.chase.com/
 ad.duapps.com
 ad.ettoday.net
 ad.flipboard.com
@@ -396,7 +393,6 @@ ads.mobvertising.net
 ads.mopub.com
 ads.mp.mydas.mobi#withmanysubdomains
 ads.n-ws.org
-ads.n-ws.org
 ads.nexage.com
 ads.nicovideo.jp
 ads.ontarget.mobi
@@ -455,7 +451,6 @@ adsee.jp
 adselector.ru
 adsellers.net
 adserve.gzero.com
-adserver.*.yahoodns.net
 adserver.goforandroid.com
 adserver.juicyads.com
 adserver.kimia.es
@@ -609,7 +604,6 @@ ama-alliance.com
 amazemobilemedia.com
 amazingvacationhotels.com
 amazon-adsystem.com
-amazon.co.uk,amazon.com,amazon.de###mobile-ad
 amazonaws.com/appodeal
 amazonaws.com/appodeal-campaign-images/
 ambitiousagreement.com
@@ -661,7 +655,6 @@ andmlb.kshwtj.com
 andomedia.com
 andoramedia-mkt-prod1-t.campaign.adobe.com
 andr-785f3ec7eb-cbc62794911ff31b-c55635c491a5a663fa-2670481.na.api.amazonvideo.com
-android-api-de.gumtree.com/api/users/*/ads.json
 android-sdk31.transpera.com
 android.bcfads.com
 android.bugly.qq.com
@@ -700,9 +693,6 @@ api.beaconsinspace.com
 api.bitmango.com/api/ad_manager
 api.branch.io
 api.branch.io/v1/open
-api.bufferapp.com/*/profiles.json
-api.bufferapp.com/*/service/
-api.bufferapp.com/*/user
 api.catch.gift
 api.cloudmobi.net
 api.connect.facebook.com
@@ -724,14 +714,12 @@ api.impressions.vupulse.com
 api.kiip.me
 api.leadbolt.net
 api.leanplum.com
-api.live.daum.net/*/ad/
 api.miui.security.xiaomi.com
 api.mixpanel.com/engage
 api.mixpanel.com/track
 api.mobojoy.baidu.com
 api.mobula.ds.duapps.com
 api.mobula.sdk.duapps.com
-api.ok.ru/fb.do?application_key=*_advertisement.user_id
 api.oneaudience.com
 api.overwatchleague.com
 api.pingstart.com
@@ -741,7 +729,6 @@ api.safegraph.com
 api.sec.miui.com
 api.segment.io/v1/
 api.swirl.com
-api.taboola.com/*/recommendations.get
 api.taplytics.com
 api.tapstream.com
 api.tinyhoneybee.com/api/getADConfig
@@ -773,7 +760,6 @@ appclick.co
 appclick.net
 appcrawlr.com###top-row.mobile-top-slot
 appengage-video.fyber.com
-appex-rf.msn.com/*.js?adtype=
 appflood.com
 appintop.com
 applab-sdk.amazon.com
@@ -814,7 +800,6 @@ arseblog.com#@#.header-ad
 art-archiv.ru
 artsconsortium.org
 as.adfonic.net
-asbook.net##div.mgline[class*="teaser-"]
 asham.tourstogo.us
 asotrack1.fluentmobile.com
 asp.animelab.com
@@ -893,8 +878,6 @@ bannerwall.herewetest.com
 bannerwall.s3.appcnt.com
 bargainracks.co.uk
 base-cdn.admarvel.com
-bash.im##div[style*="width:300px;height:250px;"]
-basketball.com.tr##.td-visible-phone>a[href*="/?utm_source="][href*="&utm_campaign="]>img
 baskettexture.com
 batcoroadlinescorporation.com
 bawdybeast.com
@@ -939,9 +922,6 @@ bevo-us-east-1.adsnative.come
 bezproudoff.cz
 bgrndi.com
 bhaskar.com##.add-mid
-bhaskar.com,divyabhaskar.co.in##[id^="TaboolaNativerecommendAd"]
-bhaskar.com,divyabhaskar.co.in,fashion101.in##.ad_320
-bhaskar.com,divyabhaskar.co.in,fashion101.in##[class^="mb_ads_title"]
 bid.axiatraders.com
 bid.grandonmedia.com
 bidder.criteo.com
@@ -1230,7 +1210,6 @@ click.buzzcity.net
 click.elixmedia.com
 click.enatimedia.com
 click.grandonmedia.com
-click.webeyemob.com/*/ad/click?subsite_id=
 clickfuse.com
 clickkydsp.com
 clickmngr.com
@@ -1261,7 +1240,6 @@ cmicapui.ce.gov.br
 cnbc.com##.leaderboard_ad
 cnbc.com##amp-embed[type="taboola"]
 cnbeta.com##a[href^="http://click.aliyun.com/"]
-cnet2.cbsistatic.com/fly/*/bundles/cnetmpxpdk/
 cnt.my
 coaha.frenchgerlemanelectric.com
 coalimpex.com
@@ -1289,7 +1267,6 @@ concernrain.com
 conds.ru
 config.appjolt.com
 config.inmobi.com
-config.sdk.scopely.io/*/android/ads_config.json
 config.tremorhub.com
 config.unityads.unity3d.com
 config2.mparticle.com
@@ -1343,7 +1320,6 @@ critictruck.com
 crittercism.com/api/
 crops.dunight.eu
 crossboardmobile.com
-crosspromo*.qplaze.com/PushCampaignXMLOut.php
 crosspromo.voodoo.io
 crosspromo.zeptolab.com
 crosspromotion-us.avosapps.us
@@ -1431,7 +1407,6 @@ dev.wrathofshadows.net
 developers.facebook.com
 deviantart.com##.mobile_adhesion
 deviantart.com#@#.mobile-ad
-device-metrics-*.amazon.com
 device-metrics-us-2.amazon.com
 dianepiette.co.uk
 diaryofagameaddict.com
@@ -1476,12 +1451,6 @@ domobcdn.com
 doodlemobile.com/feature_server/fullScreen/get.php
 doodlemobile.com/feature_server/geo-ip/test.php
 doprads.jp
-doramatv.ru,librebook.ru,findanime.me,findanime.me,mintmanga.com,grouple.co##.admachina-banner
-doramatv.ru,librebook.ru,findanime.me,findanime.me,mintmanga.com,grouple.co##.manga_ba
-doramatv.ru,librebook.ru,findanime.me,findanime.me,mintmanga.com,grouple.co##.sidebar-block>div[style="height:400px;"]
-doramatv.ru,librebook.ru,findanime.me,findanime.me,mintmanga.com,grouple.co##a[onclick="ga('send','event','buka','click','top_content')"][rel="nofollow"]
-doramatv.ru,librebook.ru,findanime.me,findanime.me,mintmanga.com,grouple.co##div[onclick="ga('send','event','adwise','click','under_player')"][style]
-doramatv.ru,librebook.ru,findanime.me,findanime.me,mintmanga.com,grouple.co##div[onclick="ga('send','event','destiny','click','635x225')"]
 dotandad.com
 dotomi.com
 doubleciick.net
@@ -1510,7 +1479,6 @@ dreamfilmhd.sh##div[class^="mob-slider"]
 drive2.ru###l-content>div.l-main.js-main>div.g-column-wide>div.cpc-card
 drive2.ru##.c-transformers-banner
 drive2.ru##.l-main.js-maindiv.o-grid-row>div[-ext-has='>div>div[style^="min-height:calc"]']
-drive2.ru/assets/*/banner.html
 drmcmm.baidu.com
 drnxs.com
 dsg.sc.omtrdc.net
@@ -1531,7 +1499,6 @@ e.crashlytics.com
 e.qq.com
 e1r.net
 eacdn.com
-eamobile.com/gameasset/direct/draper/*/ads/
 earthcontrolsys.com
 eastmoney.com##div[class^="ban"]
 easyads.bg
@@ -1542,7 +1509,6 @@ eclick.vn
 eclkmpbn.com
 eclkmpsa.com
 ecommerce.roboinside.me
-economictimes.com##style[type="text/css"]+div[class]:not([id]):not([style]):not([class*=""])
 economictimes.com/etmpat/
 ecpmrocks.com
 eddenya.com
@@ -1588,7 +1554,6 @@ enatimedia.com
 engine.a.redditmedia.com
 engine.mobileapptracking.com
 ep.xone.com
-epidemz.co,epidemz.com##div[id^="cpa_rotator_block_"]
 epom.com
 eqx.smartadserver.com
 ero-advertising.com
@@ -1757,8 +1722,6 @@ flavordecision.com
 floodprincipal.com
 fluct.jp
 fluentmobile.com
-flurry.agentportal-*.yahoodns.net
-flurry.agentportal.*.yahoodns.net
 flurry.cachefly.net
 flurry.com
 flygo.ru
@@ -1809,10 +1772,7 @@ g1.v.fwmrm.net
 ga87z2o.com
 gadgethacks.com##.fixed-height-features+aside.whtaph-rightbox.whtaph-600
 gadgets.bhaskar.com##.md_ads
-gadgets360.com,ndtv.com##div[data-google-ad="googlead"]
-gadgetsnow.com##style[type="text/css"]+div[class]:not([id]):not([style]):not([class*=""])
 gadgetsnow.com/ngwm/
-gameloft.com/*/index.ppp?ad=
 gate.hockeyapp.net
 gdeposylka.ru/js/primatic.js?_=
 gdeslon.ru
@@ -1865,12 +1825,9 @@ golds.lp.mydas.mobi
 goodadvert.com.ua
 goodadvert.ru
 google-analytics.com
-google.com/ads/search/app?*&caps=*sdkAdmobApiForAds
 googleadapis.l.google.com
 googleads.g.doubleclick.net
 googleads.g.doubleclick.net#Doubleclicktracking
-googleads.g.doubleclick.net/mads/gma?*&_package_name=com.nextradiotv.bfmbusiness
-googleads.g.doubleclick.net/mads/gma?request_id=*&_package_name=com.nextradiotv.bfmbusiness
 googleads4.g.doubleclick.net
 googleadservices.com
 googletagservices.com
@@ -1909,7 +1866,6 @@ gulf-industrial.com
 gulfstream.vo.llnwd.net
 gulsproductions.com
 gumgum.com
-gumtree.com/partner/bing?*&adUnitId=
 gumtree.com/partner/bingimpression?
 gurde.tourstogo.us
 gutefrage.net##.AdSticky
@@ -1997,7 +1953,6 @@ i-stream.pl
 i-vengo.com
 i.jumptap.com
 i.l.networld.hk
-i.now.ru/*/MobileBannerView.js
 i.skimresources.com
 i.tapit.com
 i.w.inmobi.com
@@ -2042,7 +1997,6 @@ im2.smartadserver.com
 imadrep.co.kr
 image-circul.tk
 image.click.livedoor.com
-images-*.ssl-images-amazon.com/images/*/ape/sf/MAsf-*_.js
 images.cardlytics.com
 images.intellitxt.com
 images.millennialmedia.com
@@ -2118,7 +2072,6 @@ interseek.si
 intouch.adinfuse.com
 intowow.applefeed.com.tw
 intowow.com
-invenio_tracking_*.sgnapps.com
 invention.festinolente.cl
 investingapp.net/ads_api.php?
 investingchannel.com
@@ -2162,7 +2115,6 @@ jdfabrication.com
 jeanlesigne.com
 jeansvixens.com
 jessisjewels.com
-jeuxvideo.com##.conteneur-messages-pagi>a[style*="position:relative;margin:"]
 jeuxvideo.com##.conteneur-messages-pagi>div[style]:not([class^="bloc-"]):not([id^="bloc-"])
 jewelcheese.com
 jfduv7.com
@@ -2278,8 +2230,6 @@ lgse.com
 lhs-mhs.org
 lhzbdvm.com
 lifehack.org##.visible-xs[style^="background-color:rgb"]:has(>[id^="div-gpt-ad"])
-lifehack.org##.visible-xs[style^="background-color:rgb"]:has([id^="lifehack_m_"][id*="TF"])
-lifehack.org##[id^="lifehack_m_"][id*="TF"]
 lifehacker.com##amp-embed[type="taboola"]
 lifescience.sysu.edu.cn
 liftdna.com
@@ -2304,7 +2254,6 @@ liveintent.com
 liverail.com
 livesmi.com
 livestrong.com##.js-mobile_adsense
-livestrong.com##section[class*="js-mobile_adsense"]
 livre.wasastation.fi
 lizardslaugh.com
 loadus.exelator.com
@@ -2449,7 +2398,6 @@ m.rund-ums-baby.de##p[style="font-size:10px;color:#8d8d8d;margin-bottom:10px;pad
 m.sabah.com.tr##.mm-page>div.promo
 m.sexu.com##.banner
 m.sfgate.com##.ad-point
-m.shushu8.com/js/1*.js
 m.sondakika.com###adsgoogle
 m.sondakika.com###news-list-container>ul>li[-ext-has=".adsbygoogle"]
 m.sondakika.com###news-list-container>ul>li[data-haber-id=""]
@@ -2461,13 +2409,10 @@ m.sondakika.com##.home_300x250
 m.sondakika.com##div>.widget_partner[style]
 m.sports.ru##.b-adv-carousel-wrap
 m.sports.ru##.g-banner-context-wrap
-m.sports.ru/*/banner.html
 m.sweclockers.com##.header>.container>#topBanner
 m.telegraaf.nl/static/lib/bva-widget.html
 m.timesofindia.com##.ad1
 m.timesofindia.com##.ad1.nocss
-m.timesofindia.com/*ads*.cms
-m.timesofindia.com/ad-*.cms
 m.timesofindia.com/ads_js.cms
 m.tubemate.net/c.jsp
 m.tubewolf.com##.block-ads>.banner
@@ -2484,14 +2429,10 @@ m.waz-online.de##.pdma-adaside
 m.windowscentral.com##.netshelter-ad
 m.wxrw123.com/style/js/feimobile.js
 m.wxrw123.com/style/js/tongji.js
-m.xiangce.baidu.com/mobileapp/motu-*?guid=
 m.yanglaopt.net
-m.yelp.com##div[class*="yelp-ad"]
 m.yingshidaquan.cc##.banner
 m.yingshidaquan.cc##.topmessage
 m.ynet.co.il##div[id^="GoogleAdStrip"]
-m.youtube.com##a[href^="/watch?v="][onclick^="returnkoya.onEvent(arguments[0]||window.event,'"]:not([role]):not([class]):not([id])
-m.youtube.com##a[href^="/watch?v="][onclick^="returnkoya.onEvent(arguments[0]||window.event,'"]:not([role]):not([class]):not([id])+div
 m1-shop.ru
 m2132.ehgaugysd.net
 m2m-api.inmarket.com
@@ -2503,17 +2444,13 @@ mab.chartbeat.com
 mad.mobisky.pl
 madadsmedia.com
 madnet.ru
-mads.*.pinenutsdev.net/md.request.php
 mads.amazon-adsystem.com
 mads.amazon.com
 mads.bz
 mads.com
 madsone.com
 madvertise.de
-maharashtratimes.com##style[type="text/css"]+div[class]:not([id]):not([style]):not([class*=""])
 mahindrainsurance.com
-mail.yandex.by,mail.yandex.kz,mail.yandex.ru,mail.yandex.ua##.direct
-mail.yandex.by,mail.yandex.kz,mail.yandex.ru,mail.yandex.ua##.ns-view-direct
 mailboto.com
 mainadv.com
 maist.jp
@@ -2530,7 +2467,6 @@ markbruinink.nl
 market.mi-img.com/download/AdCenter/
 market.xiaomi.com/download/AdCenter/
 marketgid.com
-marketplace-ios-*.hyprmx.com
 maroola.aditms.me
 marsads.com
 marx-brothers.mhwang.com
@@ -2577,7 +2513,6 @@ mediamixad.com
 medianetworks.ru
 mediaparade.net
 mediaplex.com
-mediate-ios-*.hyprmx.com
 mediatrade.h19.ru
 mediba.jp
 medibaad.com
@@ -2587,7 +2522,6 @@ medyanetads.com
 meendocash.com
 mein-wahres-ich.de##.wrapper-content>.quiz.clearfix>div[align="center"]
 mellowads.com
-mensxp.com##style[type="text/css"]+div[class]:not([id]):not([style]):not([class*=""])
 mepra.blautechnology.cl
 merriam-webster.com##.mobile-fixed-ad
 merrymilkfoods.com
@@ -2658,7 +2592,6 @@ mobiads.ru
 mobicow.com
 mobil-nwzonline-de.cdn.ampproject.org##.advert
 mobil.nwzonline.de##.article-list.compact>.ressort-divider
-mobil.ruhrnachrichten.de###ivwblock>img[src*="vgwort.de"]
 mobil.stern.de##.teaserlist__items>.teaser-medium-left.article-type-standard-article.mod-teaser[-ext-has=".teaser>.sponsorship--labels"]
 mobile-campaigns.avast.com
 mobile-collector.newrelic.com
@@ -2666,8 +2599,6 @@ mobile-global.baidu.com/mbrowser/promotion/get_advertisement_conf?
 mobile-global.baidu.com/mbrowser/stat/
 mobile-gtalk.l.google.com
 mobile-metrics.capitalone.com
-mobile.1haza.com##.main>a:not([href*="1haza.com"])>img[width="100%"]
-mobile.1haza.com##.wrapper>a:not([href*="1haza.com"])>img[width="100%"]
 mobile.Banzai.it
 mobile.bitterstrawberry.org
 mobile.donanimhaber.com##.reklamiatla
@@ -2684,7 +2615,6 @@ mobile.yandexadexchange.net
 mobile333.com
 mobileader.ru
 mobileads.msn.com
-mobileanalytics.*.amazonaws.com
 mobileanalytics.us-east-1.amazonaws.com
 mobileapi.mobiquitynetworks.com
 mobileapptracking.com
@@ -2702,7 +2632,6 @@ mobimagic.com/ads/
 mobioffers.ru
 mobiright.com
 mobj.space/api/openOffer?asid=
-mobkino.org/images/*_banners*/
 mobkino.org/images/pek.png
 moboland.net
 mobpartner.mobi
@@ -2762,7 +2691,6 @@ mueller-holz-bau.com
 multinews.me
 murbil.hostei.com
 muzmo.ru##div[id]>[style="width:100%;max-width:800px;margin:0pxauto;"]
-muzmo.ru/static/images/*_banners_ru/
 mvaali1.l.byteoversea.net
 mvaali2.l.byteoversea.net
 mwc.velti.com
@@ -2792,7 +2720,6 @@ namso.butlerelectricsupply.com
 nanigans.com
 narrow.azenergyforum.com
 nasdfg.com
-nasimke.ru##.body>div[class]>div[-ext-has='img[src*="/rekl/"]']
 nasimke.ru##.data-ad-client
 native.cli.bz
 nativead.s3.amazonaws.com
@@ -2800,7 +2727,6 @@ nativesdks.mparticle.com
 nativex.com
 natural.buckeyeenergyforum.com
 navbharattimes.indiatimes.com##div[id^="div-clmb-ctn"]
-navigation.api.hk.goforandroid.com/api/*/website/navigations?virtual_id=
 navigon.vo.llnwd.net
 nbook.far.ru
 nc2199.eden5.netclusive.de
@@ -2857,7 +2783,6 @@ nomalleadzuaff.com
 nonmoves.date
 nonsi.csheaven.com
 noobgirls.com
-nordbayern.de##div[id*="-mobile-ad-"]
 nordiccountry.cz
 nortonfire.co.uk
 notebookservisru.161.com1.ru
@@ -2873,7 +2798,6 @@ ns2ns1.tk
 nspmotion.com
 nt-associates.com
 nudebeachgalleries.net
-nudevista.at,nudevista.be,nudevista.com,nudevista.com.br,nudevista.com.pl,nudevista.es,nudevista.it,nudevista.jp,nudevista.net,nudevista.nl,nudevista.se,nudevista.tw##.mob_adv
 nuggad.net
 nugly.barginginfrance.net
 numb.viagenie.ca
@@ -2909,7 +2833,6 @@ oknarai.ru
 olx.ro#@#DIV[class^="banner"]
 olx.ua#@##adContainer
 olx.ua#@#.adRow
-olx.ua/*/observed/getads/?json=
 olx.ua/i2/ajax/ad/
 omni-ads.omni.news
 omniture.com
@@ -2999,7 +2922,6 @@ papamamandoudouetmoi.com
 paracadutismolucca.it
 paraskov.com
 partner.googleadservices.com
-partner.toutiao.com/partner_recommend/*&url=http%3A%2F%2Fm.duanwenxue.com
 partnerads.ysm.yahoo.com
 partnerearning.com
 pasta.esfile.duapps.com
@@ -3089,7 +3011,6 @@ popunderz.com
 pornhd.com###adhesionZone
 pornhd.com##ul.thumbs.inside-row>li:not([data-thumbindexes])
 pornhub.com##.adContainer
-pornhub.com#@#div>[style*="width:100%;"]:first-child
 pornstarss.tk
 port.bg
 portablevaporizer.com
@@ -3113,7 +3034,6 @@ print.theyeshivaworld.info
 private.hotelcesenaticobooking.info
 privetapp.ru/ads/
 prod.pinterest.global.map.fastly.net
-production-adserver-*.amazonaws.com
 produla.czatgg.pl
 profile-a.xx.fbcdn.net
 profile.ak.fbcdn.net
@@ -3144,7 +3064,6 @@ psma02.com
 psma03.com
 psoashee.net
 psooz.tourstogo.us
-pstatp.com/site/reads-sdk*/*.js
 pt-br.facebook.com
 ptewh.iptvdeals.com
 ptool.barginginfrance.net
@@ -3155,7 +3074,6 @@ pub.grandonmedia.com
 pub1.co
 pubads.g.doubleclick.net
 pubads.g.doubleclick.net#Doubleclicktracking
-pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1&output=xml_vast*&url=http%3A%2F%2Famp.usatoday.com
 pubdirecte.com
 publiccasinoil.com
 publisherhub.plaimedia.com
@@ -3198,7 +3116,6 @@ r0.mail.ru
 r0.mradx.net
 r3---sn-ab5l6nzd.googlevideo.com
 rad.msn.com
-radio.yandex.ru,radio.yandex.by,radio.yandex.ua##.slider>.slider__item_advert
 rainbowcolours.me.uk
 rallye-de-fourmies.com
 rallyeair.com
@@ -3235,7 +3152,6 @@ redtram.com
 redtube.com##.after-header
 redtube.com##.between-videos
 redtube.com##.top-tabs
-regionalwolfenbuettel.de,regionalgoslar.de##.mobile-ad1
 regist.fotoable.net/regist/
 reishus.de
 rek.mobi
@@ -3301,7 +3217,6 @@ rtb-useast.kobenetwork.com
 rtb.nexage.com
 rtb.platform.glispa.com
 rtb42td.com
-rtbimp-loadbalancer-*.amazonaws.com
 rtbpop.com
 rts.mobula.sdk.duapps.com
 ru.theswiftones.com
@@ -3315,10 +3230,8 @@ ruiyangcn.com
 rulerabbit.com
 rumog.frost-electric-supply.com
 run.adrizer.com
-runnergamesch.com/*/BasCount/adAll
 rupor.info
 russian7.ru###bottomLine-banner
-rutube.ru/play/embed/*?advertiser_id=
 rva.outbrain.com
 s-cdn-tag.medialytics.com
 s-usweb.dotomi.com
@@ -3342,7 +3255,6 @@ samayam.com/detector.cms
 san-ni-ichi.com
 santacruzsuspension.com
 sanya.vipc2f.com
-sasisa.ru/images/*banners
 sasson-cpa.co.il
 saturn.appads.com
 saturn1.appads.com
@@ -3423,7 +3335,6 @@ serraikizimi.gr
 serve-sys.com
 servebom.com
 servedbyopenx.com
-server.idreams.pl/news/ads_sfr_*.json
 server1.extra-web.cz
 service.face2trade.com
 service.opticalanalytics.io
@@ -3625,7 +3536,6 @@ spillvacation.com
 splash.appsgeyser.com
 splunk.ngclogging.cloud.twc.net
 sponsorpay.com
-spoofgames.com/prod/*.txt
 sports.ru##iframe[src^="http://www.sports.ru/desktop/special"]
 sportsulsan.co.kr
 spotad.cn
@@ -3652,12 +3562,8 @@ stailapoza.ro
 star.c10r.facebook.com
 startapp.com
 startappexchange.com
-startappexchange.com/*/getadsmetadata
-startappexchange.com/*/gethtmlad
 startappexchange.com/tracking/adClick?d=
 startappservice.com
-startappservice.com/*/getadsmetadata?
-startappservice.com/*/gethtmlad
 startappservice.com/InApp/
 startappservice.com/tracking/
 stat.duokanbox.com
@@ -3820,7 +3726,6 @@ ticotimes.net##div[class^="ticot-"]
 tidaltv.com
 tidytrail.com
 timesofindia.indiatimes.com###s_rhs
-timesofindia.indiatimes.com#@#style[type="text/css"]+div[class]:not([id]):not([style]):not([class*=""])
 timesofisrael.com##.b320x50
 timothycopus.aimoo.com
 titon.info
@@ -4036,8 +3941,6 @@ uploads.tmweb.ru
 upoll.umengcloud.com
 upornia.com##.player-holder>div[style="position:absolute;left:0px;right:0px;top:0px;bottom:0px;z-index:10;"]
 upornia.com##.tc-interstitional
-upornia.com##[id^="up_ntv_"][style*="width:300px;height:250px;"]
-upornia.com/js/*.js?v=
 uprimp.com
 ups.ksmobile.net
 upsight-api.com
@@ -4063,7 +3966,6 @@ utop.umengcloud.com
 utopia-muenchen.de
 uvidu.butlerelectricsupply.com
 v-collector.dp.aws.charter.com
-v.fwmrm.net/ad/*&resp=vast2
 v.inigsplan.ru
 v.vsimasd.pw
 v1.blueberry.cloud.databerries.com
@@ -4071,7 +3973,6 @@ vads-api.daumkakao.com/xylophone/adrequest/json
 vaebard.com
 valouweeigenaren.nl
 valuecommerce.com
-vcdn.biz/*_mggads/
 vcmedia.vn
 vdh-rimbach.de
 vdopia.com
@@ -4085,7 +3986,6 @@ vendimob.pl
 venetia.iad.appboy.com
 verifyclicksolutions.com
 vernoblisk.com
-veronicamagazine.nl/srv/*/banner
 vesti.ru###rb_fs_wrapper__ID
 vette-porno.nl
 vfl.ru##a[href^="http://optimizator.ru/"]
@@ -4099,7 +3999,6 @@ videoplaza.com
 videoplaza.tv
 videoplus.vo.llnwd.net
 viewclc.com
-vijaykarnataka.com##style[type="text/css"]+div[class]:not([id]):not([style]):not([class*=""])
 vijaykarnataka.com/vkmage/
 villalecchi.com
 ville-st-remy-sur-avre.fr
@@ -4193,7 +4092,6 @@ widgets.pinterest.com
 wigetmedia.com
 win2150.vs.easily.co.uk
 windspotter.net
-winfuture.mobi##iframe[src*="_adcode_"]
 winlock.usa.cc
 winrar-soft.ru
 winsetupcostotome.easthamvacations.info
@@ -4221,7 +4119,6 @@ writingassociates.com
 wroclawski.com.pl
 ws.ksmobile.net
 ws.tapjoyads.com
-wsback*.presage.io
 wsj.com###AD_RAIL1.wsj-ad
 wsj.com##p>#deloitte_column>[data-module-zone="deloitte_insights"]>.deloitte-insights
 wsp.marketgid.com
@@ -4252,7 +4149,6 @@ www.3388.to
 www.3difx.com
 www.3peaks.co.jp
 www.5rocks.io
-www.a4yy.top/js/gg*.js
 www.a4yy.top/js/w.js
 www.acquisizionevideo.com
 www.actiagroup.com
@@ -4537,7 +4433,6 @@ wwwpromoter.com
 wwww.adleads.com
 wwww.statcounter.com
 wzrkt.com
-x99.nudevista.com/_/x/a*.html
 xamateurpornlic.www1.biz
 xda-developers.com##div[id^="edit"][class="postbit-wrapper"]>div[style="margin:10px0;min-height:250px;max-height:250px;overflow:hidden;"]
 xdrig.com
@@ -4564,14 +4459,10 @@ yadro.ru
 yads.c.yimg.jp
 yads.yahoo.co.jp
 yads.yjtag.yahoo.co.jp
-yandex.by,yandex.com,yandex.kz,yandex.ru,yandex.ua##.body__topblocks
-yandex.by,yandex.com,yandex.kz,yandex.ru,yandex.ua##.teaser_type_internal
-yandex.ru,yandex.com,yandex.ua,yandex.kz,yandex.by,yandex.com.tr##.main>div.serp-list>div.serp-item[-ext-has='>div.organic>h2>a[href^="http://yabs.yandex.ru/count/"]']
 yandexadexchange.net
 yc-ads.s3.amazonaws.com
 yeabble.com
 yeas.yahoo.co.jp
-yelp.be,yelp.ca,yelp.ch,yelp.co.nz,yelp.co.uk,yelp.com,yelp.com.au,yelp.com.sg,yelp.ie##.data-ad-placement
 yemonisoni.com
 yen.appsfire.net
 yicha.jp
