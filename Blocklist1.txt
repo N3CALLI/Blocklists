@@ -2085,7 +2085,6 @@ iosads24.adcolony.com
 iosrecommendedvpn.com
 ip-182-50-129-164.ip.secureserver.net
 ip-182-50-129-181.ip.secureserver.net
-iphoneitalia.com.page-wrapper>center>div[style^="height:50px;"]
 ipify.org
 ipinfo.io
 ipl.hk
